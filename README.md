@@ -52,16 +52,9 @@ Expense Tracker is a web application built using Dash and Flask that helps users
 ## Screenshots
 
 ### Login Page
-![Login Page](path/to/login_screenshot.png)
+![image](https://github.com/user-attachments/assets/cad3f164-2402-4279-aabc-9b55ae718877)
+
 
 ### Dashboard
-![Dashboard](path/to/dashboard_screenshot.png)
+![image](https://github.com/user-attachments/assets/8ad0b0ee-660a-4e38-8a74-b9afb0449623)
 
-## License
-
-This project is licensed under the MIT License.
-```
-
-### Notes:
-1. Replace the placeholders for the screenshots (`path/to/login_screenshot.png` and `path/to/dashboard_screenshot.png`) with the actual paths.
-2. Add a `requirements.txt` file that lists all the dependencies used in the project for installation.
