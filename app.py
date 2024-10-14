@@ -117,6 +117,8 @@ app_layout = dbc.Container([
                         {'label': 'Rent', 'value': 'Rent'},
                         {'label': 'Salary', 'value': 'Salary'},
                         {'label': 'Misc', 'value': 'Misc'},
+                        {'label': 'Dress', 'value': 'Dress'},
+                        {'label': 'Others', 'value': 'Others'},
                     ],
                     placeholder="Select a category"
                 ), width=12
