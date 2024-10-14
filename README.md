@@ -21,8 +21,8 @@ Expense Tracker is a web application built using Dash and Flask that helps users
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
-   cd expense-tracker
+   git clone https://github.com/mithrakumar26/Budget-tracker.git
+   cd Budget-tracker
    ```
 
 2. Install the required dependencies:
@@ -57,4 +57,6 @@ Expense Tracker is a web application built using Dash and Flask that helps users
 
 ### Dashboard
 ![image](https://github.com/user-attachments/assets/8ad0b0ee-660a-4e38-8a74-b9afb0449623)
+![image](https://github.com/user-attachments/assets/26d0adc3-e430-41a3-940d-7c0c6eb84c90)
+
 
